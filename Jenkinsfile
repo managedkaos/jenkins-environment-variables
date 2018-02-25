@@ -41,7 +41,7 @@ pipeline {
                 echo "SVN_URL=${env.SVN_URL}"
                 echo "WORKSPACE=${env.WORKSPACE}"
 				'''
-            }'
-        }'
-    }'
-}'
+            }
+        }
+    }
+}
